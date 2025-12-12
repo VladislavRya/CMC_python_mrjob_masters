@@ -1,0 +1,4 @@
+mrjob>=0.7.4
+setuptools  # Required for Python 3.12+ compatibility
+matplotlib>=3.5
+networkx>=2.8
